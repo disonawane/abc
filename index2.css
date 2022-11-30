@@ -1,0 +1,46 @@
+
+    
+    
+    
+    
+    
+    
+    
+    #outter{
+    height:50px;
+    width:300px;
+    
+    border-radius:28px;
+    padding:2px;
+    box-sizing:border-box;
+    border:none;
+  }
+  .inner{
+    height:100%;
+    width:100%;
+    background-color:white;
+    border-radius:28px;
+  }
+  body{
+    background-color:black;
+  }
+  #outter:hover{
+    border:2px white solid;
+  }
+  .text-1{
+    color: black;
+    padding: 15px;
+  }
+  #outter{
+
+    margin-top: 20px;
+    margin-left: 40%;
+  }
+  .fullimage{
+   
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-image: url("./image23.jpg");
+    position: fixed;
+}
